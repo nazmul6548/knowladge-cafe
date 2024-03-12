@@ -1,0 +1,39 @@
+[
+    {
+      "id": "1",
+      "title": "The Art of Programming",
+      "coverPic": "https://i.ibb.co/3CvGnK2/chuttersnap-f39ab9-Rrx0-Q-unsplash.jpg",
+      "author": {
+        "name": "John Doe",
+        "img": "https://i.ibb.co/Jx8GGbq/bermix-studio-Mex-SRODEe-MU-unsplash.jpg"
+      },
+      "publishDate": "2024-03-06",
+      "readingTime": 10,
+      "hashtags": ["programming__", "__technology__", "__coding"]
+    },
+    {
+      "id": "2",
+      "title": "Cooking Made Easy",
+      "coverPic": "https://i.ibb.co/HXW4M1L/jez-timms-8mu-UTAmc-WU4-unsplash.jpg",
+      "author": {
+        "name": "Jane Smith",
+        "img": "https://i.ibb.co/JnJ6n8v/afif-ramdhasuma-ry-Nmj-Bolkh0-unsplash.jpg"
+      },
+      "publishDate": "2024-03-07",
+      "readingTime": 15,
+      "hashtags": ["cooking", "recipes", "food"]
+    },
+    {
+      "id": "3",
+      "title": "Traveling Around the World",
+      "coverPic": "https://i.ibb.co/LrD1kYH/brooke-cagle-g1-Kr4-Ozfoac-unsplash.jpg",
+      "author": {
+        "name": "Alice Johnson",
+        "img": "https://i.ibb.co/bgBCPXJ/engin-akyurt-vppd-Dd-Rfj5-M-unsplash.jpg"
+      },
+      "publishDate": "2024-03-08",
+      "readingTime": 20,
+      "hashtags": ["travel", "adventure", "explore"]
+    }
+  ]
+  
